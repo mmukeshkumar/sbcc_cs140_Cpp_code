@@ -1,3 +1,3 @@
 
 
-#C++ class assigments code, class material 
+SBCC CS140 C++ class assignments code, class material 
